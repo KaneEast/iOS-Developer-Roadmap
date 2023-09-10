@@ -1,5 +1,7 @@
-# iOS-Developer-Roadmap-2023
+<img width="2395" alt="iOS Development Roadmap" src="https://github.com/KaneEast/iOS-Developer-Roadmap/assets/13726303/eec0e0fb-9dbf-4653-bac1-bbd0c2335379">
+To visualize this mind map of Markdown, Import below code to the Xmind or other mind map apps.
 
+# iOS-Developer-Roadmap-2023
 ## 1. Programming Languages
    - Swift
      - Basics
@@ -304,5 +306,5 @@
      - Local iOS Developer Meetups
      - Networking and Learning
 
-<img width="760" alt="スクリーンショット 2023-09-10 16 11 27" src="https://github.com/KaneEast/iOS-Developer-Roadmap/assets/13726303/d175a6ad-30cc-4ec5-84e7-4258728a03e7">
+
 
