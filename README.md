@@ -305,6 +305,3 @@ To visualize this mind map of Markdown, Import below code to the Xmind or other 
      - Attending Tech Conferences
      - Local iOS Developer Meetups
      - Networking and Learning
-
-
-
